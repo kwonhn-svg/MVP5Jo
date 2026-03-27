@@ -1,0 +1,5 @@
+openai>=1.0.0
+requests==2.33.0
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+duckduckgo-search==5.3.0
