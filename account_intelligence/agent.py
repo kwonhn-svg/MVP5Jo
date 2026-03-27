@@ -52,8 +52,8 @@ def run_agent(company_name: str) -> str:
     while step <= max_steps:
         # OpenAI API 호출
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            max_tokens=4096,
+            model="gpt-4o",
+            max_tokens=8192,
             tools=TOOLS,
             messages=messages
         )

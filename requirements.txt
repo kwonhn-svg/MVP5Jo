@@ -21,3 +21,7 @@ duckduckgo-search
 langchain-graph-retriever
 graph-retriever
 graph-rag-example-helpers
+
+# B2B Account Intelligence Agent
+anthropic
+tavily-python
